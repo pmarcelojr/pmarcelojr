@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://dev.to/pmarcelojr">
   <img align="left" alt="Devto" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
-<a target="_blank" href="https://www.facebook.com/marcelosantostecnologia/">
-  <img align="left" alt="Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a target="_blank" href="https://medium.com/@marcelosantostecnologia">
   <img align="left" alt="Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg"/>
+</a>
+<a target="_blank" href="https://www.facebook.com/marcelosantostecnologia/">
+  <img align="left" alt="Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/pmarcelojr2">
   <img align="left" alt="twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
