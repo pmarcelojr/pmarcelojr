@@ -26,10 +26,13 @@ I'm a Analyst DevOps Jr | Network Administrator.
   <img align="left" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="https://dev.to/pmarcelojr">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+  <img align="left" alt="Devto" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 <a target="_blank" href="https://www.facebook.com/marcelosantostecnologia/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5511951637080">
+  <img align="left" alt="Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 </br>
 
