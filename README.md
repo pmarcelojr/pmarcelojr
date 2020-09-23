@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, My name is Marcelo Santos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-
 <a target="_blank" href="mailto:marcelosantostecnologia@gmail.com">
   <img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -40,7 +39,6 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511951637080">
   <img align="left" alt="Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-</br>
 I'm a Analyst DevOps Jr | Network Administrator.
 
 - :star: My main skills are: Azure DevOps / DevOps / 
