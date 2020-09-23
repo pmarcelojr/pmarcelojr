@@ -25,6 +25,12 @@ I'm a Analyst DevOps Jr | Network Administrator.
 <a target="_blank" href="https://www.instagram.com/pmarcelojr/">
   <img align="left" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a target="_blank" href="https://dev.to/pmarcelojr">
+  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/marcelosantostecnologia/">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 </br>
 
 - :star: My main skills are: Azure DevOps / DevOps / 
