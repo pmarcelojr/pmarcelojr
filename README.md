@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, my name is Marcelo Santos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-I'm a Analyst DevOps Jr | Network Administrator.
+### Hi there 👋, My name is Marcelo Santos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 
 <a target="_blank" href="mailto:marcelosantostecnologia@gmail.com">
   <img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -41,6 +41,7 @@ I'm a Analyst DevOps Jr | Network Administrator.
   <img align="left" alt="Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 </br>
+I'm a Analyst DevOps Jr | Network Administrator.
 
 - :star: My main skills are: Azure DevOps / DevOps / 
 
