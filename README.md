@@ -25,6 +25,7 @@ I'm a Analyst DevOps Jr | Network Administrator.
 <a target="_blank" href="https://www.instagram.com/pmarcelojr/">
   <img align="left" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</br>
 
 - :star: My main skills are: Azure DevOps / DevOps / 
 
