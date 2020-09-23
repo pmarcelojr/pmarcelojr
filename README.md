@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Devto" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 <a target="_blank" href="https://medium.com/@marcelosantostecnologia">
-  <img align="left" alt="Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg"/>
+  <img align="left" alt="Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"/>
 </a>
 <a target="_blank" href="https://www.facebook.com/marcelosantostecnologia/">
   <img align="left" alt="Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
