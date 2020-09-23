@@ -31,6 +31,12 @@ I'm a Analyst DevOps Jr | Network Administrator.
 <a target="_blank" href="https://www.facebook.com/marcelosantostecnologia/">
   <img align="left" alt="Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a target="_blank" href="https://medium.com/@marcelosantostecnologia"
+  <img align="left" alt="Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg"/>
+</a>
+<a target="_blank" href="https://twitter.com/pmarcelojr2">
+  <img align="left" alt="twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
+</a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511951637080">
   <img align="left" alt="Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
