@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pmarcelojr/pmarcelojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, my name is Marcelo Santos
+### Hi there 👋, my name is Marcelo Santos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 I'm a Analyst DevOps Jr | Network Administrator.
+
+<a target="_blank" href="mailto:marcelosantostecnologia@gmail.com">
+  <img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/marcelo-santos-tecnologia/">
+  <img align="left" alt="LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/pmarcelojr/">
+  <img align="left" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 - :star: My main skills are: Azure DevOps / DevOps / 
 
