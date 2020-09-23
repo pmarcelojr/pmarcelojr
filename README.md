@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://medium.com/@marcelosantostecnologia">
   <img align="left" alt="Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"/>
 </a>
+<a target="_blank" href="https://www.meetup.com/pt-BR/members/260822290/">
+  <img align="left" alt="Meetup" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meetup.svg"/>
+</a>
 <a target="_blank" href="https://www.facebook.com/marcelosantostecnologia/">
   <img align="left" alt="Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
