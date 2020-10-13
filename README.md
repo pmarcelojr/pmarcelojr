@@ -57,6 +57,3 @@ I'm a Analyst DevOps Jr | Network Administrator.
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
 
 ----
-**Languages and Tools:**  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmarcelojr&layout=compact)](https://github.com/pmarcelojr/github-readme-stats)
