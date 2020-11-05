@@ -45,6 +45,6 @@ I'm a Analyst DevOps Jr | Network Administrator.
 ----
 
 #### View my stats on Github
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
 
 ----
