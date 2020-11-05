@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.linkedin.com/in/marcelo-santos-tecnologia/">
   <img align="left" alt="LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/pmarcelojr/">
-  <img align="left" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a target="_blank" href="https://dev.to/pmarcelojr">
   <img align="left" alt="Devto" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
@@ -33,19 +30,13 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.meetup.com/pt-BR/members/260822290/">
   <img align="left" alt="Meetup" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meetup.svg"/>
 </a>
-<a target="_blank" href="https://www.facebook.com/marcelosantostecnologia/">
-  <img align="left" alt="Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a target="_blank" href="https://twitter.com/pmarcelojr2">
-  <img align="left" alt="twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
-</a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511951637080">
   <img align="left" alt="Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 </br></br>
 I'm a Analyst DevOps Jr | Network Administrator.
 
-- :star: My main skills are: Azure DevOps / DevOps / 
+- :star: My main skills are: DevOps / Cloud / 
 
 - 🔭 I’m currently the founder of FanPage on Facebook called [**SI DA DEPRESSÃO**](https://www.facebook.com/malignosystem "SI da Depressão") to share entertainment and fun with everyone in the IT community.
 
