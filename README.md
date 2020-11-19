@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511951637080">
   <img align="left" alt="Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5511951637080">
+<a target="_blank" href="https://t.me/pmarcelojr">
   <img align="left" alt="Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 </br></br>
