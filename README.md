@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, My name is Marcelo Santos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+I'm a Analyst DevOps Jr | Network Administrator.
+
+- :star: My main skills are: DevOps / Cloud / 
+
+- 🔭 I’m currently the founder of FanPage on Facebook called [**SI DA DEPRESSÃO**](https://www.facebook.com/malignosystem "SI da Depressão") to share entertainment and fun with everyone in the IT community.
+
+- 💬 Ask me about DevOps, Cloud and Network!
 <p align="left">
   <a href="mailto:marcelosantostecnologia@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
@@ -37,19 +44,6 @@ Here are some ideas to get you started:
   <a href="https://dev.to/pmarcelojr" alt="Dev.to">
   <img src="https://img.shields.io/badge/-Dev.to-0a0a0a?style=flat-square&logo=Dev.To&logoColor=white&link=LINK-DO-SEU-DEV.TO"/></a>
 </p> 
-<!--
-<a target="_blank" href="https://www.meetup.com/pt-BR/members/260822290/">
-  <img align="left" alt="Meetup" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meetup.svg"/>
-</a>
--->
-I'm a Analyst DevOps Jr | Network Administrator.
-
-- :star: My main skills are: DevOps / Cloud / 
-
-- 🔭 I’m currently the founder of FanPage on Facebook called [**SI DA DEPRESSÃO**](https://www.facebook.com/malignosystem "SI da Depressão") to share entertainment and fun with everyone in the IT community.
-
-- 💬 Ask me about DevOps, Cloud and Network!
-
 ----
 #### My latest posts
 <ul>
