@@ -44,7 +44,7 @@ I'm a Analyst DevOps Jr | Network Administrator.
   <a href="https://dev.to/pmarcelojr" alt="Dev.to">
   <img src="https://img.shields.io/badge/-Dev.to-0a0a0a?style=flat-square&logo=Dev.To&logoColor=white&link=LINK-DO-SEU-DEV.TO"/></a>
 </p> 
-----
+
 #### My latest posts
 <ul>
   <li><a href="https://medium.com/@marcelosantostecnologia/git-conceitos-essenciais-feaa293644c"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Git: Essential Concepts</b></a><br/><i>Basic concepts essential to the world Git.</i></li>
