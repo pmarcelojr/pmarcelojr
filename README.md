@@ -42,7 +42,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Meetup" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meetup.svg"/>
 </a>
 -->
-</br>
 I'm a Analyst DevOps Jr | Network Administrator.
 
 - :star: My main skills are: DevOps / Cloud / 
