@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 
   <a href="https://instagram/pmarcelojr" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  
+  <a href="https://medium.com/@marcelosantostecnologia" alt="Medium">
+  <img src="https://img.shields.io/badge/-Medium-12100e?style=flat-square&logo=Medium&logoColor=white&link=LINK-DO-SEU-MEDIUM"/></a>
+  
+  <a href="https://dev.to/pmarcelojr" alt="Dev.to">
+  <img src="https://img.shields.io/badge/-Dev.to-0a0a0a?style=flat-square&logo=Dev.To&logoColor=white&link=LINK-DO-SEU-DEV.TO"/></a>
 </p> 
 <!--
-<a target="_blank" href="https://dev.to/pmarcelojr">
-  <img align="left" alt="Devto" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="https://medium.com/@marcelosantostecnologia">
-  <img align="left" alt="Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"/>
-</a>
 <a target="_blank" href="https://www.meetup.com/pt-BR/members/260822290/">
   <img align="left" alt="Meetup" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meetup.svg"/>
 </a>
 -->
-</br></br>
+</br>
 I'm a Analyst DevOps Jr | Network Administrator.
 
 - :star: My main skills are: DevOps / Cloud / 
