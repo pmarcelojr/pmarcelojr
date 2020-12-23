@@ -15,12 +15,23 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, My name is Marcelo Santos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a target="_blank" href="mailto:marcelosantostecnologia@gmail.com">
-  <img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/marcelo-santos-tecnologia/">
-  <img align="left" alt="LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<p align="left">
+  <a href="mailto:marcelosantostecnologia@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/marcelo-santos-tecnologia/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5511951637080" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://t.me/pmarcelojr" alt="Telegram">
+  <img src="https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white&link=LINK-DO-SEU-TELEGRAM"/></a>
+
+  <a href="https://instagram/pmarcelojr" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p> 
+<!--
 <a target="_blank" href="https://dev.to/pmarcelojr">
   <img align="left" alt="Devto" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
@@ -30,12 +41,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.meetup.com/pt-BR/members/260822290/">
   <img align="left" alt="Meetup" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meetup.svg"/>
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5511951637080">
-  <img align="left" alt="Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://t.me/pmarcelojr">
-  <img align="left" alt="Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+-->
 </br></br>
 I'm a Analyst DevOps Jr | Network Administrator.
 
