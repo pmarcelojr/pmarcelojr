@@ -56,6 +56,22 @@ I'm a Analyst Process Jr.
 </ul>
 
 #### View my stats on Github
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+<p align="center">
+  <a href="https://github.com/pmarcelojr/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=pmarcelojr&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+    />
+  </a>
+  
+  <a href="https://github.com/pmarcelojr/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmarcelojr&&layout=compact&theme=dark"
+    />
+  </a>
+</p>
 
 ----
