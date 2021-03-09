@@ -27,7 +27,7 @@ I'm a Analyst Process Jr.
 - 🔭 I’m currently the founder of FanPage on Facebook called [**SI DA DEPRESSÃO**](https://www.facebook.com/malignosystem "SI da Depressão") to share entertainment and fun with everyone in the IT community.
 
 - 💬 Ask me about DevOps, Cloud and Network!
-<p align="left">
+<p align="center">
   <a href="mailto:marcelosantostecnologia@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
