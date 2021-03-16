@@ -22,7 +22,7 @@ I'm a Analyst Process Jr.
 - :star: My main skills are: DevOps / Cloud / 
 
 <!--- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>-->
-- 💼 &nbsp;Currently Working on <a href="https://www.itau.com.br/">ITAÚ UNIBANCO</a>
+- 👨‍💻 I'm currently working full-time at **Itaú Unibanco**.
 
 - 🔭 I’m currently the founder of FanPage on Facebook called [**SI DA DEPRESSÃO**](https://www.facebook.com/malignosystem "SI da Depressão") to share entertainment and fun with everyone in the IT community.
 
