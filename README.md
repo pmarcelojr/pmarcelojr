@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=pmarcelojr&color=006bed)
 
-### Hi there 👋, My name is Marcelo Santos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, My name is Marcelo Santos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 I'm a Analyst Process Jr.
 
