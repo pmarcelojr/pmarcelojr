@@ -71,7 +71,7 @@ I'm a Analyst Process Jr.
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmarcelojr&hide=C&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmarcelojr&&layout=compact&theme=dark"
     />
   </a>
 </p>
