@@ -59,7 +59,7 @@ I'm a Analyst Process Jr.
 
 #### View my stats on Github
 <p align="center">
-  <a href="https://github.com/pmarcelojr/github-readme-stats">
+  <a href="https://github.com/pmarcelojr/">
     <img
       align="center"
       height="165"
@@ -67,7 +67,7 @@ I'm a Analyst Process Jr.
     />
   </a>
   
-  <a href="https://github.com/pmarcelojr/github-readme-stats">
+  <a href="https://github.com/pmarcelojr/">
     <img
       align="center"
       height="165"
