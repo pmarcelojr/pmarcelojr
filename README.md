@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, My name is Marcelo Santos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-I'm a Analyst Process Jr.
+I'm a IT Engineering Analyst Jr.
 
 - :star: My main skills are: DevOps / Cloud / .NET Core / 
 
