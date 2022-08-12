@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/pmarcelojr/pmarcelojr/blob/main/devcard.svg"
+      src="https://github.com/pmarcelojr/pmarcelojr/blob/main/devcard.svg"
       alt="Marcelo Santos's Dev Card"
     />
   </a>
