@@ -90,7 +90,6 @@ I'm a IT Engineering Analyst Jr.
       align="center"
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmarcelojr&&layout=compact&theme=dark"
-      src="
     />
   </a>
 </p>
