@@ -17,7 +17,25 @@ Here are some ideas to get you started:
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://linktr.ee/pmarcelojr)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-### Hi there, My name is Marcelo Santos!
+### Hi there 👋, My name is Marcelo Santos!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/marcelo-santos-tecnologia/?locale=en_US">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/pmarcelojr" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/pmarcelojr/pmarcelojr/blob/main/devcard.svg"
+      alt="Marcelo Santos's Dev Card"
+    />
+  </a>
+</div>
 
 I'm a IT Engineering Analyst Jr.
 
